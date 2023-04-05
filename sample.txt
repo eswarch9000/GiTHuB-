@@ -1,4 +1,1 @@
-Hello eswar this is sample file
-
-
-second update
+Hello eswar this is sample file 
